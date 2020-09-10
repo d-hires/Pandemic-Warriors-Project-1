@@ -58,7 +58,7 @@ Jessica – Location datasets, gender chart, Data Analysis, Research
 
 Laura – Slides , Outline,  gender dataset & chart, validity
 
-Saki - Data Analysis , race dataset & charts
+Saki - Research, Data Analysis , race dataset & charts
 
  
 
