@@ -41,6 +41,7 @@ Potential Datasets and API’s to Be Used
 Suicide Hotline 
 
 CDC  
+Census
 
 APA 
 
@@ -52,7 +53,7 @@ Rough Breakdown of Tasks
 
 Sullivan – Data retrieval, API, Data Analysis, Research
 
-Don Hires – Data Cleanup, Data Analysis, Age dataset and charts, Github guy
+Don Hires – Research, Data Cleanup, Data Analysis, Age dataset and charts, Github guy
 
 Jessica – Location datasets and charts, gender chart, Data Analysis, Research
 
