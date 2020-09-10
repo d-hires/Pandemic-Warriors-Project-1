@@ -50,15 +50,15 @@ mhanational.org
 
 Rough Breakdown of Tasks 
 
-Sullivan – Data retrieval 
+Sullivan – Data retrieval, API, Data Analysis, Research
 
-Don Hires – Data Cleanup 
+Don Hires – Data Cleanup, Data Analysis, Age dataset and charts, Github guy
 
-Jessica – Charts 
+Jessica – Location datasets, gender chart, Data Analysis, Research
 
-Laura – Presentation 
+Laura – Slides , Outline,  gender dataset & chart, validity
 
-Saki - Analysis 
+Saki - Data Analysis , race dataset & charts
 
  
 
