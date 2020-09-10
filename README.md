@@ -75,20 +75,20 @@ Outline
 2.   “Talking about the Indicators”
 •	Symptoms of Depression, Symptoms of Anxiety, Symptoms of Depression & Anxiety 
 •	Explain how we chose the four sections to  find if there was an increase of symptoms
-
 3.  “Talking about the participants” 
 •	Gender: Females saw a decrease - Males saw an increase as time went on
 •	Ages : 18-29 group had the most increase  (rest of the age group was too similar?)
-•	Race
+•	Race: low Asian reported symptoms
 4.  “National data and states data”
 •	Comparing the national data to the states	
 •	How the national data compares to Kansas & Missouri
-
+         Show increase
 5. Going forward questions—Conclusion slides
 •	Did we have any outliers?
 •	We could have also looked at race, income, employment status, educational disruptions, capacity to telework and travel?
 •	Shortcomings of the data set provided: (4 Nonsampling errors of the Household Pulse Survey)
 •	(“The Census Bureau employs quality control procedures to minimize these errors.However, the potential bias due to non-sampling errors has not yet been evaluated”)
+
 
 Link to Slide Show:
 https://my.visme.co/view/8r96znov-pandemic-warriors
