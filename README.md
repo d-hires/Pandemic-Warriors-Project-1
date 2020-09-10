@@ -54,7 +54,7 @@ Sullivan – Data retrieval, API, Data Analysis, Research
 
 Don Hires – Data Cleanup, Data Analysis, Age dataset and charts, Github guy
 
-Jessica – Location datasets, gender chart, Data Analysis, Research
+Jessica – Location datasets and charts, gender chart, Data Analysis, Research
 
 Laura – Slides , Outline,  gender dataset & chart, validity
 
