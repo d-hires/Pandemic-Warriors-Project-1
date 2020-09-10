@@ -90,5 +90,5 @@ Outline
 •	Shortcomings of the data set provided: (4 Nonsampling errors of the Household Pulse Survey)
 •	(“The Census Bureau employs quality control procedures to minimize these errors.However, the potential bias due to non-sampling errors has not yet been evaluated”)
 
-Link to Slide Show
-https://my.visme.co/view/8r96znov-ne12meegdyrdl79x
+Link to Slide Show:
+https://my.visme.co/view/8r96znov-pandemic-warriors
